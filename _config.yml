@@ -71,4 +71,4 @@ deploy:
   type: git
   repo:
     github: git@github.com:lili-an/lili-an.github.io.git,master
-    coding: git@git.coding.net:stto/stto.git,master
+    coding: git@coding.net:stto/stto.git,master 
