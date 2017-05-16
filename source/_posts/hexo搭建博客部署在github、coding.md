@@ -17,11 +17,11 @@ cd .ssh
 git init
 ```
 
-### 两个链接后面 一定要有' ; ' ###
+### 两个链接 ###
 ```
 deploy:
   type: git
   repo:
-    github: git@github.com:lili-an/lili-an.github.io.git,master;
+    github: git@github.com:lili-an/lili-an.github.io.git,master
     coding: git@git.coding.net:stto/stto.git,master 
 ```
